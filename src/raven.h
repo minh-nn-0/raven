@@ -25,8 +25,6 @@ typedef struct
 		} _object;
 
 		struct {size_t _size; RavenNode* _data} _array;
-
-		char * _name;
 	} _data;
 } RavenNode;
 
