@@ -1,2 +1,2 @@
 # raven
-C23 Json Parser
+C23 Serialization / Deserialization library
